@@ -4,55 +4,95 @@ Software Engineering (Honours) student at Deakin University, based in Melbourne.
 
 Before moving into software, I spent 13 years in aircraft maintenance engineering, where I developed strong troubleshooting, systems thinking, documentation, and safety-focused problem-solving skills. I now bring that engineering mindset into software projects.
 
-## What I Am Building
+## Portfolio Highlights
 
-- Backend APIs using ASP.NET Core, RESTful design, authentication, and PostgreSQL
-- Full-stack web applications using React, JavaScript, Firebase, and responsive UI design
-- Embedded and IoT systems using Arduino, Raspberry Pi, BLE, RFID, keypad input, and sensors
-- Automation and CI/CD workflows using Git, GitHub, Jenkins, and test-driven development practices
+### WalkBuddy: AI-Assisted Navigation Device
 
-## Featured Projects
+[AI-Assisted-Navigation-Device](https://github.com/Kenneth-Kin-Ho-Fung/AI-Assisted-Navigation-Device)
+
+React Native, TypeScript, FastAPI, Python, YOLOv8, EasyOCR, Llama, Docker
+
+- AI navigation aid for visually impaired users, combining mobile camera input, object detection, OCR, voice guidance, indoor/outdoor navigation, and live helper support
+- Worked with a multi-component architecture across frontend, backend, ML, and deployment documentation
+- Strongest current portfolio project because it shows real product scope, team workflow, API integration, and applied AI engineering
 
 ### Home Security System
 
-Arduino Nano 33 IoT, Raspberry Pi, BLE, RFID, keypad, motion sensor
+[Task11.1HDProject](https://github.com/Kenneth-Kin-Ho-Fung/Task11.1HDProject)
 
-- Designed an IoT security prototype integrating embedded sensors and access control modules
-- Implemented communication between Arduino and Raspberry Pi using BLE
-- Built intrusion detection logic and alert handling for a home security use case
+Arduino Nano 33 IoT, Raspberry Pi, Python, BLE, RFID, keypad, LCD, PIR sensor, camera
 
-### Robot Controller API
+- Built an embedded security prototype with Arduino/Raspberry Pi communication over BLE
+- Integrated RFID access, keypad input, door/window sensing, motion detection, camera recording, and alert logic
+- Good showcase for embedded systems, hardware troubleshooting, and practical engineering problem solving
 
-ASP.NET Core, PostgreSQL, REST API, authentication, authorization
+### Parallel File Processing and Sentiment Analysis
 
-- Developed a RESTful backend API for robot command and control features
-- Implemented authentication and role-based authorization
-- Designed database-backed endpoints using PostgreSQL
+[Sit315-M4.T1D](https://github.com/Kenneth-Kin-Ho-Fung/Sit315-M4.T1D)
 
-### Full Stack Article Platform
+C++, MPI, distributed processing
 
-React, Firebase Authentication, Firestore, JavaScript, HTML, CSS
+- Implemented a parallel file processor using MPI message passing
+- Split large text files into chunks, processed word/line/character counts, and aggregated sentiment results across processes
+- Good showcase for systems programming, concurrency, and performance-oriented design
 
-- Built a responsive full-stack article platform with user authentication
-- Used Firestore for real-time data storage and retrieval
-- Implemented frontend routing, reusable UI components, and clean user workflows
+### Software Defined Networking Learning Switch
 
-### CI/CD Practice Project
+[Sit202-3.2H](https://github.com/Kenneth-Kin-Ho-Fung/Sit202-3.2H)
 
-GitHub, Jenkins, automated build pipeline
+Python, POX, OpenFlow, SDN
 
-- Practised source control workflows using Git and GitHub
-- Configured Jenkins pipeline steps for continuous integration
-- Improved confidence with build automation and development workflow discipline
+- Implemented and modified an L2 learning switch controller
+- Added packet-handling logic for ARP, ICMP, MAC learning, flow installation, and selective traffic blocking
+- Good showcase for networking fundamentals and Python-based controller logic
+
+### Jenkins CI/CD Pipeline
+
+[SIT223](https://github.com/Kenneth-Kin-Ho-Fung/SIT223)
+
+Jenkins, CI/CD, pipeline design, testing stages, deployment simulation
+
+- Designed a Jenkins pipeline with checkout, build, tests, code analysis, security scan, staging deployment, and production deployment stages
+- Good showcase for software delivery workflow and DevOps fundamentals
+
+## Project Groups
+
+### Applied AI and Product Engineering
+
+- [AI-Assisted-Navigation-Device](https://github.com/Kenneth-Kin-Ho-Fung/AI-Assisted-Navigation-Device): React Native + FastAPI + ML navigation aid
+
+### Embedded Systems and IoT
+
+- [Task11.1HDProject](https://github.com/Kenneth-Kin-Ho-Fung/Task11.1HDProject): Home security system with Arduino, Raspberry Pi, BLE, RFID, keypad, camera, and sensors
+- [Task8.1HDBluetooth](https://github.com/Kenneth-Kin-Ho-Fung/Task8.1HDBluetooth): BLE parking sensor prototype with Arduino and Raspberry Pi
+- [Task7.2DAudioProcessing](https://github.com/Kenneth-Kin-Ho-Fung/Task7.2DAudioProcessing): Voice-controlled Raspberry Pi LED assistant
+
+### Networking, Systems, and DevOps
+
+- [Sit315-M4.T1D](https://github.com/Kenneth-Kin-Ho-Fung/Sit315-M4.T1D): MPI-based parallel file processing and sentiment aggregation
+- [Sit202-3.2H](https://github.com/Kenneth-Kin-Ho-Fung/Sit202-3.2H): POX/OpenFlow SDN learning switch
+- [SIT223](https://github.com/Kenneth-Kin-Ho-Fung/SIT223): Jenkins CI/CD pipeline practice
+
+### SIT210 Learning Archive
+
+These repositories show my progression through IoT concepts such as Arduino programming, webhooks, MQTT, Firebase, GUI control, BLE, speech recognition, and Raspberry Pi integration.
+
+- [Task1.1BlinkName](https://github.com/Kenneth-Kin-Ho-Fung/Task1.1BlinkName)
+- [Task2.1WebHook](https://github.com/Kenneth-Kin-Ho-Fung/Task2.1WebHook)
+- [Task3.1IFTTT](https://github.com/Kenneth-Kin-Ho-Fung/Task3.1IFTTT)
+- [Task3.3DMQTT](https://github.com/Kenneth-Kin-Ho-Fung/Task3.3DMQTT)
+- [Task4.2HDArduinoCloudFunction](https://github.com/Kenneth-Kin-Ho-Fung/Task4.2HDArduinoCloudFunction)
+- [Task5.1GUI](https://github.com/Kenneth-Kin-Ho-Fung/Task5.1GUI)
+- [Task5.2GUI](https://github.com/Kenneth-Kin-Ho-Fung/Task5.2GUI)
 
 ## Technical Skills
 
-**Languages:** C#, Java, Python, JavaScript, HTML, CSS, SQL  
-**Backend:** ASP.NET Core, REST APIs, Node.js, authentication, authorization  
-**Frontend:** React, responsive web design  
-**Database and Cloud:** PostgreSQL, Firebase, Firestore  
-**Embedded and IoT:** Arduino, Raspberry Pi, BLE, RFID, sensors  
-**Tools:** Git, GitHub, Jenkins, Visual Studio, VS Code
+**Languages:** Python, C++, C#, Java, JavaScript, TypeScript, HTML, CSS, SQL  
+**Backend and APIs:** FastAPI, REST APIs, ASP.NET Core fundamentals  
+**Frontend and Mobile:** React Native, React, responsive web design  
+**AI and Data:** YOLOv8, EasyOCR, speech recognition, sentiment analysis  
+**Embedded and IoT:** Arduino, Raspberry Pi, BLE, MQTT, RFID, sensors, GPIO  
+**Systems and DevOps:** MPI, OpenFlow/POX, Git, GitHub, Jenkins, Docker
 
 ## Currently Looking For
 
