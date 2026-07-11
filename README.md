@@ -64,6 +64,6 @@ GitHub, Jenkins, automated build pipeline
 
 ## Contact
 
-- LinkedIn: add your LinkedIn URL here
+- LinkedIn: coming soon
 - GitHub: https://github.com/Kenneth-Kin-Ho-Fung
-- Email: add your preferred job-search email here
+- Email: available on request
