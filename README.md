@@ -8,7 +8,7 @@ Before moving into software, I spent 13 years in aircraft maintenance engineerin
 
 ### WalkBuddy: AI-Assisted Navigation Device
 
-[AI-Assisted-Navigation-Device](https://github.com/Kenneth-Kin-Ho-Fung/AI-Assisted-Navigation-Device)
+[WalkBuddy AI Navigation Device](https://github.com/Kenneth-Kin-Ho-Fung/AI-Assisted-Navigation-Device)
 
 React Native, TypeScript, FastAPI, Python, YOLOv8, EasyOCR, Llama, Docker
 
@@ -18,7 +18,7 @@ React Native, TypeScript, FastAPI, Python, YOLOv8, EasyOCR, Llama, Docker
 
 ### Home Security System
 
-[Task11.1HDProject](https://github.com/Kenneth-Kin-Ho-Fung/Task11.1HDProject)
+[Arduino and Raspberry Pi Home Security System](https://github.com/Kenneth-Kin-Ho-Fung/Task11.1HDProject)
 
 Arduino Nano 33 IoT, Raspberry Pi, Python, BLE, RFID, keypad, LCD, PIR sensor, camera
 
@@ -28,7 +28,7 @@ Arduino Nano 33 IoT, Raspberry Pi, Python, BLE, RFID, keypad, LCD, PIR sensor, c
 
 ### Parallel File Processing and Sentiment Analysis
 
-[Sit315-M4.T1D](https://github.com/Kenneth-Kin-Ho-Fung/Sit315-M4.T1D)
+[MPI Parallel Sentiment Analysis](https://github.com/Kenneth-Kin-Ho-Fung/Sit315-M4.T1D)
 
 C++, MPI, distributed processing
 
@@ -38,7 +38,7 @@ C++, MPI, distributed processing
 
 ### Software Defined Networking Learning Switch
 
-[Sit202-3.2H](https://github.com/Kenneth-Kin-Ho-Fung/Sit202-3.2H)
+[SDN Learning Switch](https://github.com/Kenneth-Kin-Ho-Fung/Sit202-3.2H)
 
 Python, POX, OpenFlow, SDN
 
@@ -48,7 +48,7 @@ Python, POX, OpenFlow, SDN
 
 ### Jenkins CI/CD Pipeline
 
-[SIT223](https://github.com/Kenneth-Kin-Ho-Fung/SIT223)
+[Jenkins CI/CD Pipeline](https://github.com/Kenneth-Kin-Ho-Fung/SIT223)
 
 Jenkins, CI/CD, pipeline design, testing stages, deployment simulation
 
@@ -59,19 +59,19 @@ Jenkins, CI/CD, pipeline design, testing stages, deployment simulation
 
 ### Applied AI and Product Engineering
 
-- [AI-Assisted-Navigation-Device](https://github.com/Kenneth-Kin-Ho-Fung/AI-Assisted-Navigation-Device): React Native + FastAPI + ML navigation aid
+- [WalkBuddy AI Navigation Device](https://github.com/Kenneth-Kin-Ho-Fung/AI-Assisted-Navigation-Device): React Native + FastAPI + ML navigation aid
 
 ### Embedded Systems and IoT
 
-- [Task11.1HDProject](https://github.com/Kenneth-Kin-Ho-Fung/Task11.1HDProject): Home security system with Arduino, Raspberry Pi, BLE, RFID, keypad, camera, and sensors
-- [Task8.1HDBluetooth](https://github.com/Kenneth-Kin-Ho-Fung/Task8.1HDBluetooth): BLE parking sensor prototype with Arduino and Raspberry Pi
+- [Arduino and Raspberry Pi Home Security System](https://github.com/Kenneth-Kin-Ho-Fung/Task11.1HDProject): Home security system with Arduino, Raspberry Pi, BLE, RFID, keypad, camera, and sensors
+- [BLE Parking Sensor](https://github.com/Kenneth-Kin-Ho-Fung/Task8.1HDBluetooth): BLE parking sensor prototype with Arduino and Raspberry Pi
 - [Task7.2DAudioProcessing](https://github.com/Kenneth-Kin-Ho-Fung/Task7.2DAudioProcessing): Voice-controlled Raspberry Pi LED assistant
 
 ### Networking, Systems, and DevOps
 
-- [Sit315-M4.T1D](https://github.com/Kenneth-Kin-Ho-Fung/Sit315-M4.T1D): MPI-based parallel file processing and sentiment aggregation
-- [Sit202-3.2H](https://github.com/Kenneth-Kin-Ho-Fung/Sit202-3.2H): POX/OpenFlow SDN learning switch
-- [SIT223](https://github.com/Kenneth-Kin-Ho-Fung/SIT223): Jenkins CI/CD pipeline practice
+- [MPI Parallel Sentiment Analysis](https://github.com/Kenneth-Kin-Ho-Fung/Sit315-M4.T1D): MPI-based parallel file processing and sentiment aggregation
+- [SDN Learning Switch](https://github.com/Kenneth-Kin-Ho-Fung/Sit202-3.2H): POX/OpenFlow SDN learning switch
+- [Jenkins CI/CD Pipeline](https://github.com/Kenneth-Kin-Ho-Fung/SIT223): Jenkins CI/CD pipeline practice
 
 ### SIT210 Learning Archive
 
