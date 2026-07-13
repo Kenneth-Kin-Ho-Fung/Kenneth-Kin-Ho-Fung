@@ -104,6 +104,6 @@ These repositories show my progression through IoT concepts such as Arduino prog
 
 ## Contact
 
-- LinkedIn: coming soon
+- LinkedIn: www.linkedin.com/in/kenneth-kin-ho-fung-software-engineering
 - GitHub: https://github.com/Kenneth-Kin-Ho-Fung
 - Email: available on request
